@@ -2,7 +2,7 @@
 
 I specialize in automation, containerization, and building reliable, reproducible infrastructure. Passionate about turning complexity into simplicity through code and automation.
 
-## 🧰 Core Skills:
+## 🧰 Core Skills
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
@@ -17,7 +17,7 @@ I specialize in automation, containerization, and building reliable, reproducibl
 ![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-5B8FF9?style=flat)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-## 💡 Interests:
+## 💡 Interests
 Infrastructure as Code, observability, CI/CD optimization, high availability, and scalable distributed systems.
 
 ## 🚀 Currently exploring:
@@ -25,4 +25,4 @@ Infrastructure as Code, observability, CI/CD optimization, high availability, an
 - 🦀 Rust — for systems programming and building efficient backend tools
 - ☸️ Kubernetes — for large-scale container orchestration and cluster management
 
-📍 Location: Rostov-on-Don, Russia
+[![roadmap.sh](https://roadmap.sh/card/tall/64661677410780a6d9b7fe9d?variant=dark)](https://roadmap.sh)
