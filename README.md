@@ -14,7 +14,6 @@ I specialize in automation, containerization, and building reliable, reproducibl
 ![Nomad](https://img.shields.io/badge/Nomad-00BC7F?style=flat&logo=hashicorp&logoColor=white)
 ![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat&logo=consul&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![VictoriaMetrics](https://img.shields.io/badge/VictoriaMetrics-5B8FF9?style=flat)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
 ## 💡 Interests
