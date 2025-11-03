@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a DevOps Engineer from Rostov-on-Don, Russia
+# 👋 Hi there! I'm a DevOps Engineer
 
 I specialize in automation, containerization, and building reliable, reproducible infrastructure. Passionate about turning complexity into simplicity through code and automation.
 
