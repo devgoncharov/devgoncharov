@@ -21,7 +21,6 @@ Infrastructure as Code, observability, CI/CD optimization, high availability, an
 
 ## 🚀 Currently exploring:
 
-- 🦀 Rust — for systems programming and building efficient backend tools
 - ☸️ Kubernetes — for large-scale container orchestration and cluster management
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64661677410780a6d9b7fe9d?variant=dark&roadmaps=rust%2Cdevops%2Clinux%2Cdocker)](https://roadmap.sh)
